@@ -1,0 +1,12 @@
+.box{
+    border: 2px solid black;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 15px;
+    gap: 3px;
+}
+.display{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    
+}
